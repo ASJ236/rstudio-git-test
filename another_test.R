@@ -6,3 +6,5 @@ plot(cars)    # plot speed against distance
 
 
 #more editing....
+
+str(cars)
